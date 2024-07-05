@@ -9,7 +9,10 @@ The goal of this project is to examine the event of death due to heart failure b
 ## Data Source
 https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data <br>
 
+## Roles
+Gianni Conde: Data cleansing and preparation, exploratory data analysis, association rule mining model development. <br>
+Joshua Biggs-Bauer: Exploratory data analysis, random forest and SVM model development. <br>
+Joaquin Rodarte: Data cleansing and preparation, decision tree model development.
+
 ## Tool(s) Required
 - RStudio
-
-## About the Data
